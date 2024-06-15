@@ -1,4 +1,4 @@
-Proyecto final de la materia Análisis de Biología Computacional 
+Proyecto Final Análisis de Genomas COVID-19 en R studio (Análisis de Biología Computacional BT1013)
 
 En el 2020 se nos presento una pandemia mundial donde se tuvieron que implementar muchas
 restricciones tanto de distancia y aforo en lugares público y cerrados. A lo largo de los
