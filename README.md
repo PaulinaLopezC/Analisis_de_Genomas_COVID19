@@ -14,4 +14,6 @@ a que provienen del mismo virus sin embargo también identificamos que el cambio
 1% en las proteínas cambia radicalmente si una de las sepas llega a ser mucho más contagiosa,
 mas agresiva o más letal para el portador.
 
-A01701095 Guadalupe Paulina López Cuevas 2do Semestre IRS
+A01701095
+Guadalupe Paulina López Cuevas
+2do Semestre IRS
